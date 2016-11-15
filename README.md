@@ -31,4 +31,8 @@ Usage: npd [options] [command]
 * Run ```$ npd migrate:run``` to run all migrations that have not yet been run.
 * Check your AWS Dynamodb, and you should see all your tables as well as the npd_migrations tables
 
+### Images:
+![alt tag](https://s3-us-west-1.amazonaws.com/chris-testing-images/dynamodb-migration-example.png)
+
+
 
